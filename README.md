@@ -1,2 +1,2 @@
 # .NetFriends
-Ambiente Di Esempi Pubblici per gli amici di .NET Friends su Discord
+Ambiente di esempi pubblici per gli amici di .NET Friends su Discord
