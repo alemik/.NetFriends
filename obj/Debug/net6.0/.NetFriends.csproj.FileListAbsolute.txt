@@ -1,0 +1,15 @@
+/Users/michele/Sviluppo/NetFriends/.NetFriends/bin/Debug/net6.0/.NetFriends
+/Users/michele/Sviluppo/NetFriends/.NetFriends/bin/Debug/net6.0/.NetFriends.deps.json
+/Users/michele/Sviluppo/NetFriends/.NetFriends/bin/Debug/net6.0/.NetFriends.runtimeconfig.json
+/Users/michele/Sviluppo/NetFriends/.NetFriends/bin/Debug/net6.0/.NetFriends.dll
+/Users/michele/Sviluppo/NetFriends/.NetFriends/bin/Debug/net6.0/ref/.NetFriends.dll
+/Users/michele/Sviluppo/NetFriends/.NetFriends/bin/Debug/net6.0/.NetFriends.pdb
+/Users/michele/Sviluppo/NetFriends/.NetFriends/obj/Debug/net6.0/.NetFriends.csproj.AssemblyReference.cache
+/Users/michele/Sviluppo/NetFriends/.NetFriends/obj/Debug/net6.0/.NetFriends.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michele/Sviluppo/NetFriends/.NetFriends/obj/Debug/net6.0/.NetFriends.AssemblyInfoInputs.cache
+/Users/michele/Sviluppo/NetFriends/.NetFriends/obj/Debug/net6.0/.NetFriends.AssemblyInfo.cs
+/Users/michele/Sviluppo/NetFriends/.NetFriends/obj/Debug/net6.0/.NetFriends.csproj.CoreCompileInputs.cache
+/Users/michele/Sviluppo/NetFriends/.NetFriends/obj/Debug/net6.0/.NetFriends.dll
+/Users/michele/Sviluppo/NetFriends/.NetFriends/obj/Debug/net6.0/ref/.NetFriends.dll
+/Users/michele/Sviluppo/NetFriends/.NetFriends/obj/Debug/net6.0/.NetFriends.pdb
+/Users/michele/Sviluppo/NetFriends/.NetFriends/obj/Debug/net6.0/.NetFriends.genruntimeconfig.cache
